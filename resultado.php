@@ -1,5 +1,5 @@
 
 <?php
     print($_GET["num"]);
-    print($_GET["num2"]);
+    prin(t$_GET["num2"]);
 ?>
